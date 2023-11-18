@@ -1,1 +1,2 @@
-This is amend commit
+This is amend commit for
+This is for PR
